@@ -1,0 +1,122 @@
+    *{
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    .header{
+        background-color:#1E90FF;
+        display: flex;
+
+    }
+    .icon,.para,.button{
+        width: 450px;
+        text-align: center;
+        margin: -1px;
+    }
+    img{
+        width: 20px;
+        margin: 10px;
+    }
+
+    .para{
+        font-size: 14px;
+        color: white;
+        margin: 10px auto;
+    }
+
+    .button{
+        margin  : 10px;
+    }
+
+    #logo{
+        width: 200px;
+        margin-left: 100px;
+    }
+
+    .nav{
+        float: right;
+        margin: 20px 50px;
+    }
+
+    li{
+        padding: 0px 20px 0px 0px;
+    }
+
+    .navbar1{
+        background-color: aliceblue;    
+    }
+
+    a:hover{
+        background-color: #1E90FF;
+    }
+     
+    .slida{
+         margin: -10px;
+     }
+
+     .new{
+         background-color: darkblue;
+         margin: 10px 50px 30px 50px;
+     }
+     
+     b{
+         color: lightgreen;
+     }
+
+     .more{
+         color: lightblue;
+         text-decoration: none;
+     }
+
+     .more:hover{
+         color: none;
+         text-decoration: none;
+     }
+
+     .wel{
+         color: white;
+        text-align: center;
+     }
+
+     .wel1{
+         background-color: aliceblue;
+         text-align: center;
+     }
+     #intro1{
+         text-align: center;
+         width: 300px;
+     }
+ 
+     .par{
+         margin: 0px 200px 0px 200px;
+         background-color: aliceblue;
+     }
+
+     .pa{
+         background-color: aliceblue;
+     }
+
+     .mida{
+        text-align: center;
+     }
+
+     #intro2{
+         margin: 20px auto;
+         width: 100%;
+     }
+
+     #intro3{
+        width: 400px;
+     }
+
+     #up{
+        text-align: center;
+        width: 300px;
+     }
+
+     .upcom{
+         padding: 0 0 0 400px;
+             
+    }
+
+    #intor4{
+        width: 200px;   
+    }
